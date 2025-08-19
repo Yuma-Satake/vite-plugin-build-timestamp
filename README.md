@@ -1,0 +1,2 @@
+# vite-plugin-build-timestamp
+Reactのビルド時にHTMLに対してビルド時間を書き込むViteプラグイン
